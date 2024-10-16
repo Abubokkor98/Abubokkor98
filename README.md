@@ -1,46 +1,70 @@
- <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B;I+am+Abu+Bokkor+Siddik;Good+to+see+you+my+friend+%3A)" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B;I+am+Abu+Bokkor+Siddik;Good+to+see+you+my+friend+%3A)" alt="Typing SVG" />
+</h1>
 
-  </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abubokkor98&label=Profile%20views&color=dc143c&style=flat" alt="Profile Views" />
+</p>
 
-  
-### 👨‍💻  About Me:
+---
 
- I’m a front-end developer on a never-ending journey of learning and growth.
+### 👨‍💻 About Me:
 
+- 🌱 I’m a **front-end developer** continuously learning and growing in the world of web development.
+- 💻 Currently diving deep into **ReactJS**, enhancing my skills and mastering new frameworks.
+- 🛠️ Passionate about building **responsive**, **accessible**, and **dynamic web applications**.
+- 🚀 Always exploring the latest trends in **web development** and **front-end technologies**.
 
+---
 
-### 👨‍💻 My Stack:
+### 🛠️ My Tech Stack:
 
+- **Languages & Frameworks**:  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge) 
+- **Tools & Libraries**:  
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Context API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 
+- **Version Control**:  
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!--![](https://github-readme-stats.vercel.app/api?username=Nima-sltn&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abubokkor98&theme=dark&hide_border=true) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&theme=dark&hide_border=true&exclude_repo=Tapsi-Frontend-SPA,github-readme-stats&count_private=true&layout=compact)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&.github.io) -->
+---
 
-##
+### 📊 GitHub Stats:
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubokkor98&theme=dark&hide_border=true" alt="Streak Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&theme=dark&hide_border=true&exclude_repo=Tapsi-Frontend-SPA,github-readme-stats&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
+---
 
+### 📬 Connect with Me:
 
+<p align="center">
+  <a href="https://linkedin.com/in/abubokkor">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mail.abubokkor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+  </a>
+</p>
 
-### 📌 My Social:
-      
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](inkedin.com/in/abubokkor)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:mail.abubokkor@gmail.com)
+---
 
-<!--
-**Abubokkor98/Abubokkor98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fun Fact:** When I'm not coding, I enjoy exploring the latest tech innovations, watching web development tutorials, and experimenting with new front-end techniques.
 
-
+<!-- Footer -->
+<p align="center">
+  Made with ❤️ by Abu Bokkor Siddik
+</p>
