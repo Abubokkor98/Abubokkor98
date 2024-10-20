@@ -47,8 +47,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&theme=dark&hide_border=true&exclude_repo=Tapsi-Frontend-SPA,github-readme-stats&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&theme=dark&hide_border=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
+
 
 ---
 
