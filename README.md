@@ -41,7 +41,9 @@
 ---
 
 ### 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&layout=compact&theme=dark)
+<p align="center">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&layout=compact&theme=dark)
+</p>
 
 
 
