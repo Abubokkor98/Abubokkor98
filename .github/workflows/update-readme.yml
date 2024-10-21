@@ -3,14 +3,14 @@ name: Update README
 on:
   push:
     branches:
-      - main  # Change this to your branch name if different
+      - main  # যদি আপনার ব্রাঞ্চের নাম আলাদা হয় তবে এখানে পরিবর্তন করুন
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # v3 এ আপডেট করা হয়েছে
 
       - name: Update README with most used languages
         run: |
@@ -20,4 +20,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Update README with most used languages" || echo "No changes to commit"
-          git push
+          git push || echo "Push failed"
