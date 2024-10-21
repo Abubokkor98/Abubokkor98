@@ -41,8 +41,13 @@
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="center">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&layout=compact&theme=dark)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubokkor98&theme=dark&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&theme=dark&hide_border=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 
