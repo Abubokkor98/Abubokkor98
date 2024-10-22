@@ -52,7 +52,7 @@ fn main() {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&layout=compact&theme=dark" alt="Top Languages" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 </p>
 
 <p align="center">
