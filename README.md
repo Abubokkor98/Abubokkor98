@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B;I+am+Abu+Bokkor+Siddik;Good+to+see+you+my+friend+%3A)" alt="Typing SVG" />
 </h1>
 
-
+### 👨‍💻 About Me:
 <img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```rust
@@ -14,8 +14,6 @@ fn main() {
 }
 
 ```
-
-### 👨‍💻 About Me:
 
 - 🌱 I’m a **front-end developer** continuously learning and growing in the world of web development.
 - 💻 Currently diving deep into **ReactJS**, enhancing my skills and mastering new frameworks.
