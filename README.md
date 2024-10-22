@@ -2,9 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=40&duration=2500&pause=700&color=da2c38&center=true&vCenter=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B;I+am+Abu+Bokkor+Siddik;Good+to+see+you+my+friend+%3A)" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abubokkor98&label=Profile%20views&color=dc143c&style=flat" alt="Profile Views" />
-</p>
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+
+```rust
+fn main() {
+    let name = "Abu Bokkor Siddik"; 
+    let acknowledgements = "Front-end Developer";
+    let location = "Dhaka, Bangladesh";
+    let company = false;  // Currently not associated with any company
+}
+
 
 ---
 
@@ -49,6 +56,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&layout=compact&theme=dark" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abubokkor98&label=Profile%20views&color=dc143c&style=flat" alt="Profile Views" />
+</p>
+
 
 
 
