@@ -3,13 +3,14 @@
 
 ```rust
 fn main() {
-    let name = "Abu Bokkor Siddik"; 
+    const name = "Abu Bokkor Siddik"; 
     let acknowledgements = "Front-End Developer";
     let location = "Dhaka, Bangladesh";
     let company = false;  // Currently not associated with any company
 }
 
 ```
+
 
 - 🌱 I’m a **front-end developer** continuously learning and growing in the world of web development.
 - 💻 Currently diving deep into **ReactJS**, enhancing my skills and mastering new frameworks.
