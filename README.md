@@ -4,16 +4,18 @@
 
 <img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
+
 ```rust
 fn main() {
-    let name = "Abu Bokkor Siddik"; 
-    let acknowledgements = "Front-end Developer";
-    let location = "Dhaka, Bangladesh";
-    let company = false;  // Currently not associated with any company
+    let name = 'Rafael Carneiro';
+    let acknowledgements = 'Software Engineer';
+
+    let location = 'Fortaleza, Ceara, Brazil';
+    let company = 'O2D - On Demand Development';
 }
 
-
----
+```
 
 ### 👨‍💻 About Me:
 
