@@ -17,18 +17,15 @@ jobs:
           LANG_SECTION_START="### 📊 GitHub Stats:"
           LANG_SECTION_END="</p>"
 
-          # Generate the new content for the 'Most Used Languages' and 'Total Commits' section
+          # New content for the 'Most Used Languages' and 'Total Commits' section
           NEW_LANG_SECTION="<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&layout=compact&theme=dark\" alt=\"Top Languages\" />\n  <img src=\"https://github-readme-stats.vercel.app/api?username=Abubokkor98&count_private=true&show_icons=true&theme=dark&include_all_commits=true\" alt=\"Total Commits\" />\n</p>"
 
-          # Escape special characters in NEW_LANG_SECTION for sed
-          ESCAPED_NEW_LANG_SECTION=$(printf '%s\n' "$NEW_LANG_SECTION" | sed -e 's/[\/&]/\\&/g')
-
-          # Replace the old 'Most Used Languages' section or append if not present
-          if grep -q "$LANG_SECTION_START" README.md; then
-            sed -i "/$LANG_SECTION_START/,/$LANG_SECTION_END/c\\$ESCAPED_NEW_LANG_SECTION" README.md
-          else
-            echo -e "\n$NEW_LANG_SECTION" >> README.md
-          fi
+          # Find and replace between LANG_SECTION_START and LANG_SECTION_END using awk
+          awk -v start="$LANG_SECTION_START" -v end="$LANG_SECTION_END" -v new_section="$NEW_LANG_SECTION" \
+          'BEGIN {in_section=0} 
+          {if ($0 ~ start) {print; print new_section; in_section=1} 
+          else if ($0 ~ end) {in_section=0} 
+          else if (!in_section) {print}}' README.md > README.tmp && mv README.tmp README.md
 
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
