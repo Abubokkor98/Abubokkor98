@@ -1,21 +1,32 @@
-name: Update README
+name: Update README with Most Used Languages
 
 on:
   push:
     branches:
-      - main  # যদি আপনার ব্রাঞ্চের নাম আলাদা হয় তবে এখানে পরিবর্তন করুন
+      - main  
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # v3 এ আপডেট করা হয়েছে
+        uses: actions/checkout@v3  
 
       - name: Update README with most used languages
         run: |
-          echo "## My Most Used Languages" >> README.md
-          echo "![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&layout=compact&theme=dark)" >> README.md
+          LANG_SECTION_START="### 📊 GitHub Stats:"
+          LANG_SECTION_END="</p>"
+
+          # Generate the new content for the 'Most Used Languages' section
+          NEW_LANG_SECTION="<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&layout=compact&theme=dark\" alt=\"Top Languages\" />\n</p>"
+
+          # Replace the old 'Most Used Languages' section or append if not present
+          if grep -q "$LANG_SECTION_START" README.md; then
+            sed -i "/$LANG_SECTION_START/,/$LANG_SECTION_END/c\\$NEW_LANG_SECTION" README.md
+          else
+            echo -e "\n$NEW_LANG_SECTION" >> README.md
+          fi
+
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
