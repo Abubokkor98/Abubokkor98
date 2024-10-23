@@ -1,4 +1,4 @@
-name: Update README with Most Used Languages
+name: Update README with Most Used Languages and Commit Count
 
 on:
   push:
@@ -12,17 +12,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3  
 
-      - name: Update README with most used languages
+      - name: Update README with most used languages and commit count
         run: |
           LANG_SECTION_START="### 📊 GitHub Stats:"
           LANG_SECTION_END="</p>"
 
-          # Generate the new content for the 'Most Used Languages' section
-          NEW_LANG_SECTION="<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&layout=compact&theme=dark\" alt=\"Top Languages\" />\n</p>"
+          # Generate the new content for the 'Most Used Languages' and 'Total Commits' section
+          NEW_LANG_SECTION="<p align=\"center\">\n  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Abubokkor98&layout=compact&theme=dark\" alt=\"Top Languages\" />\n  <img src=\"https://github-readme-stats.vercel.app/api?username=Abubokkor98&count_private=true&show_icons=true&theme=dark&include_all_commits=true\" alt=\"Total Commits\" />\n</p>"
+
+          # Escape special characters in NEW_LANG_SECTION for sed
+          ESCAPED_NEW_LANG_SECTION=$(printf '%s\n' "$NEW_LANG_SECTION" | sed -e 's/[\/&]/\\&/g')
 
           # Replace the old 'Most Used Languages' section or append if not present
           if grep -q "$LANG_SECTION_START" README.md; then
-            sed -i "/$LANG_SECTION_START/,/$LANG_SECTION_END/c\\$NEW_LANG_SECTION" README.md
+            sed -i "/$LANG_SECTION_START/,/$LANG_SECTION_END/c\\$ESCAPED_NEW_LANG_SECTION" README.md
           else
             echo -e "\n$NEW_LANG_SECTION" >> README.md
           fi
@@ -30,5 +33,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Update README with most used languages" || echo "No changes to commit"
+          git commit -m "Update README with most used languages and total commits" || echo "No changes to commit"
           git push || echo "Push failed"
