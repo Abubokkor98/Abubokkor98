@@ -48,8 +48,9 @@ fn main() {
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubokkor98&theme=dark&hide_border=true&cache_bust=${Date.now()}" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubokkor98&theme=dark&hide_border=true&cache_bust=true" alt="Streak Stats" />
 </p>
+
 
 
 <p align="center">
