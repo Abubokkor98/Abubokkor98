@@ -1,7 +1,7 @@
 # Abu Bokkor Siddik  
 ### Front-End Developer  
 
-<hr style="border: 1px solid #ccc;"/>
+---
 
 ### 👨‍💻 About Me:
 
