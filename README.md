@@ -21,7 +21,7 @@ fn main() {
 
 
 - 🌱 I’m a **front-end developer** on a mission to create seamless and intuitive web experiences.  
-- 💻 My core skill is based on **JavaScript**, and I love to do most of the things with it.  
+- 💻 My core expertise lies in **JavaScript**, and I enjoy leveraging it to build modern and dynamic web applications  
 - 🛠️ I’m skilled at **front-end-based MERN Stack**, with a strong passion for learning and implementing new web technologies and standards.  
 - 🚀 Continuously exploring cutting-edge **front-end technologies**, staying ahead of trends to deliver innovative solutions.
 
@@ -89,6 +89,6 @@ fn main() {
 ---
 
 ### 🌟 Fun Fact:  
-When I’m not coding, you’ll find me exploring the latest tech, experimenting with new web techniques, playing Clash of Clans, or diving into a good movie or series!
+When I’m not coding, I enjoy exploring the latest tech trends, experimenting with web techniques, playing Clash of Clans, or relaxing with a good movie or series.
 
 
