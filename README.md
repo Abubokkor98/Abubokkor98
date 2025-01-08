@@ -88,9 +88,7 @@ fn main() {
 
 ---
 
-**Fun Fact:** When I'm not coding, I enjoy exploring the latest tech innovations, watching web development tutorials, and experimenting with new front-end techniques.
+### 🌟 Fun Fact:  
+When I’m not coding, you’ll find me exploring the latest tech, experimenting with new web techniques, playing Clash of Clans, or diving into a good movie or series!
 
-<!-- Footer -->
-<p align="center">
-  Made with ❤️ by Abu Bokkor Siddik
-</p>
+
