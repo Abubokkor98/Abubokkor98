@@ -1,7 +1,4 @@
-# Abu Bokkor Siddik  
-### Front-End Developer 
 
-#
 
 ### 👨‍💻 About Me:
 
