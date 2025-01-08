@@ -1,7 +1,7 @@
-# Abu Bokkor Siddik  
-### Front-End Developer  
+<h1 align="center">👨‍💻 Abu Bokkor Siddik</h1>
+<h3 align="center">🚀 Front-End Developer</h3>
 
-#
+---
 
 ### 👨‍💻 About Me:
 
@@ -25,7 +25,7 @@ fn main() {
 - 💻 My core expertise lies in **JavaScript**, and I love leveraging it to build modern, dynamic web applications.  
 - 🛠️ Skilled in the front-end-based **MERN Stack**, I have a strong passion for learning and implementing the latest web technologies and standards.  
 - 🚀 Continuously exploring cutting-edge front-end technologies, I stay ahead of trends to deliver innovative solutions.  
-- 📫 How to reach me: [mail.abubokkor@gmail.com]  
+- 📫 How to reach me: mail.abubokkor@gmail.com
 
 ---
 
