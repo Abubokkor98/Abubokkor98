@@ -20,14 +20,37 @@ fn main() {
 ```
 
 
-- 🌱 I’m a **front-end developer** continuously learning and growing in the world of web development.
-- 💻 Currently diving deep into **ReactJS**, enhancing my skills and mastering new frameworks.
-- 🛠️ Passionate about building **responsive**, **accessible**, and **dynamic web applications**.
-- 🚀 Always exploring the latest trends in **web development** and **front-end technologies**.
+- 🌱 I’m a **front-end developer** on a mission to create seamless and intuitive web experiences.  
+- 💻 Currently honing my expertise in **ReactJS** while embracing modern frameworks and libraries.  
+- 🛠️ Passionate about crafting **responsive**, **accessible**, and **interactive web applications** that make an impact.  
+- 🚀 Continuously exploring cutting-edge **front-end technologies**, staying ahead of trends to deliver innovative solutions.  
 
 ---
 
 ### 🛠️ My Tech Stack:
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Other Skills
+![REST APIs](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest-api&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+---
+
+## 💻 I Code With 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
