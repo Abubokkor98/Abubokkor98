@@ -1,5 +1,5 @@
-# 👨‍💻 Abu Bokkor Siddik  
-### 🚀 Front-End Developer  
+# Abu Bokkor Siddik  
+### Front-End Developer 
 
 #
 
