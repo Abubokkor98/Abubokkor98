@@ -1,7 +1,7 @@
-<h1 align="center">👨‍💻 Abu Bokkor Siddik</h1>
-<h3 align="center">🚀 Front-End Developer</h3>
+# 👨‍💻 Abu Bokkor Siddik  
+### 🚀 Front-End Developer  
 
----
+#
 
 ### 👨‍💻 About Me:
 
