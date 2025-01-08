@@ -1,7 +1,7 @@
 # Abu Bokkor Siddik  
 ### Front-End Developer  
 
----
+-
 
 ### 👨‍💻 About Me:
 
@@ -84,7 +84,7 @@ fn main() {
 
 ### 📬 Connect with Me:
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/abubokkor">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
