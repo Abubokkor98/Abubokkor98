@@ -17,7 +17,8 @@ fn main() {
 ```
 
 
-- 🔭 I’m currently working on full-stack MERN projects.  
+- 📘 I’m currently learning Next.js to expand my skills and explore the future of web development.
+- 🔭 I’m currently working on full-stack MERN projects.
 - 🌱 As a front-end developer, I’m on a mission to create seamless and intuitive web experiences.  
 - 💻 My core expertise lies in **JavaScript**, and I love leveraging it to build modern, dynamic web applications.  
 - 🛠️ Skilled in the front-end-based **MERN Stack**, I have a strong passion for learning and implementing the latest web technologies and standards.  
