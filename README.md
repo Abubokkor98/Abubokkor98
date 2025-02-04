@@ -49,8 +49,11 @@ fn main() {
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abubokkor98&theme=dark&hide_border=true&cache_bust=true" alt="Streak Stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Abubokkor98&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 
 
