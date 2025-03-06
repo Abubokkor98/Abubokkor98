@@ -2,9 +2,7 @@
 
 ### 👨‍💻 About Me:
 
-<div align="right">
-  <img src="https://media1.tenor.com/m/pT_eK7L76OEAAAAC/coding-computer-coding.gif" alt="Coding GIF" width="300"/>
-</div>
+<img align="right" width="300" src="https://media1.tenor.com/m/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```rust
 fn main() {
