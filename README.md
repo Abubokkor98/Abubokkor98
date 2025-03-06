@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me:
 
-<img align="right" width="300" src="https://tenor.com/view/coding-computer-coding-computer-hacking-hacker-gif-19990794" />
+<img align="right" width="300" src="https://media1.tenor.com/m/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```rust
 fn main() {
