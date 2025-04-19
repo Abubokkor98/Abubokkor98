@@ -13,12 +13,11 @@ fn main() {
 
 ```
 
-- 📘 I’m currently learning Next.js to expand my skills and explore the future of web development.
-- 🔭 I’m currently working on full-stack MERN projects.
-- 🌱 As a front-end developer, I’m on a mission to create seamless and intuitive web experiences.
-- 💻 My core expertise lies in **JavaScript**, and I love leveraging it to build modern, dynamic web applications.
-- 🛠️ Skilled in the front-end-based **MERN Stack**, I have a strong passion for learning and implementing the latest web technologies and standards.
-- 🚀 Continuously exploring cutting-edge front-end technologies, I stay ahead of trends to deliver innovative solutions.
+- 📘 Mastering Next.js to build performant, full-stack applications with features like server-side rendering (SSR), static site generation (SSG), and API routes for seamless backend integration.
+- 🔭 Working on MERN stack projects enhanced with Next.js for optimized SEO, hybrid rendering, and scalable architecture.
+- 🌱 Focused on crafting intuitive UX/UI with modern React patterns, TypeScript, and state management solutions.
+- 🚀 Exploring cutting-edge tools like Redux Toolkit to streamline state logic and reduce boilerplate in large-scale apps Prisma for type-safe database workflows.
+  💻 Passionate about writing clean, maintainable JavaScript/TypeScript code that adheres to modern best practices.
 - 📫 How to reach me: mail.abubokkor@gmail.com
 
 ---
