@@ -8,7 +8,7 @@ fn main() {
     let acknowledgements = "Front-End Developer";
 
     let location = "Dhaka, Bangladesh";
-    let company = false;  // Currently not associated with any company
+    let company = ["Perceptron"];
 }
 
 ```
