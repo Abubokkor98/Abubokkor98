@@ -13,7 +13,7 @@ fn main() {
 
 ```
 
-- 📘 Mastering Next.js to build performant, full-stack applications with features like SSR, SSG, and API routes for seamless backend integration.
+- 📘 Mastering Next.js to build performant, full-stack applications with features like SSR, SSG, and API routes.
 - 🔭 Working on MERN stack projects enhanced with Next.js for optimized SEO, hybrid rendering, and scalable architecture.
 - 🌱 Focused on crafting intuitive UX/UI with modern React patterns, TypeScript, and state management solutions.
 - 🚀 Exploring cutting-edge tools like Redux Toolkit to streamline state logic and reduce boilerplate in large-scale apps Prisma for type-safe database workflows.
