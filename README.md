@@ -5,7 +5,7 @@
 ```rust
 fn main() {
     const name = "Abu Bokkor Siddik";
-    let acknowledgements = "Front-End Developer";
+    let acknowledgements = "Web Application Developer";
 
     let location = "Dhaka, Bangladesh";
     let company = ["Perceptron"];
