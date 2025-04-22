@@ -8,7 +8,7 @@ fn main() {
     let acknowledgements = "Web Application Developer";
 
     let location = "Dhaka, Bangladesh";
-    let company = ["Perceptron"];
+    let company = ["Perceptron", "Softvence Agency"];
 }
 
 ```
